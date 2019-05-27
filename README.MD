@@ -51,6 +51,8 @@ Just click on group chats to fix it. You should not have to do this again.
 
 ```
 Remove friends.custom.css from C:\Program Files (x86)\Steam\clientui
+
+Run SteamFriendsPatcher.exe and clear cache.
 ```
 
 
