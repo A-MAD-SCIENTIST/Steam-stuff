@@ -6,10 +6,10 @@ tbh this will be obsolete eventually but AFAIK, metro doesn't have the chat skin
 
 ## Getting Started
 
-Firstly download the EnableNewSteamFriendsSkin in the repository. twust me it safe i wont be after your bitcoins :) 
+Firstly download the "SteamFriendsPatcher-0.1.17-beta.zip" in the repository. twust me it safe i wont be after your bitcoins :) 
 OR RUN IN A SANDBOX ENVIRONMENT GODDAMNIT IF U THINK IT'S BAD. wat.
 
--  A quick scan on the .exe via VirusTotal shows  [this](https://www.virustotal.com/#/file/0e29aea0e9e21f4549e219f27cd6652440558c708df5ecc35305e4dece430f41/detection). 
+-  A quick scan on the .exe via VirusTotal shows  [this](https://www.virustotal.com/gui/file-analysis/NmI2ZGU5YmUyNTQxY2UzYmY4ZjZkZjQyZTViNDFiYzg6MTU2NTUyNzUxNQ==/detection). 
 
 
 
