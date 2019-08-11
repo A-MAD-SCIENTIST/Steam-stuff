@@ -19,6 +19,10 @@ OR RUN IN A SANDBOX ENVIRONMENT GODDAMNIT IF U THINK IT'S BAD. wat.
 ```
 A Windows PC, 7 or above, Steam and full Administrator rights to the system.
 
+11/08/19 - Now supports Linux / Mac! Copy .css to Steam/Skins/%skinname%/resource/webkit.css
+
+Be sure to open up the .css first and search for 'Linux' or 'Mac'. Remove lines where appropriate. 
+
 ```
 
 ### Installing
