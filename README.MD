@@ -55,5 +55,15 @@ Remove friends.custom.css from C:\Program Files (x86)\Steam\clientui
 Run SteamFriendsPatcher.exe and clear cache.
 ```
 
+## Showcase Images
+
+
+![Chat](https://github.com/A-MAD-SCIENTIST/Steam-stuff/blob/master/Example%204.jpg)
+
+![Friends List Settings](https://github.com/A-MAD-SCIENTIST/Steam-stuff/blob/master/Example%203.PNG)
+
+![Group Chat](https://github.com/A-MAD-SCIENTIST/Steam-stuff/blob/master/Example%202.PNG)
+
+![Chat](https://github.com/A-MAD-SCIENTIST/Steam-stuff/blob/master/Example%201.png)
 
 
