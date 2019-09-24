@@ -438,7 +438,9 @@ outline: 0px solid transparent !important; }
   margin-top: 0px !important;
   margin-bottom: 2px!important;
   min-width: 32px!important; 
+  min-height: 35px!important;
 }
+
 .chatWindow .chatEntry > .compactableHeight {
   height: 39px !important; }
   
@@ -1589,7 +1591,8 @@ color: inherit!important;}
 padding:0px!important;}
 
 .ChatTabContent .avatarHolder .avatar{
-padding: 1px;}
+padding: 1px;
+height: auto!important;}
 
 .ChatTabs:not(.compactView) .ChatTabContent .avatarHolder .avatar {
 width: 32px!important;}
@@ -1634,6 +1637,9 @@ border: 1px solid #c9bdf7!important;}
 
 .currentUserContainer .personanameandstatus_richPresenceContainer_21cNf {
     margin-top: 4px!important;}
+
+.personanameandstatus_richPresenceContainer_21cNf {
+width: 100%!important;}
 	
 .ChatRoomListGroupItem .groupNameStatusContainer .chatRoomName{
 	color: rgb(var(--white))!important;}
@@ -1736,3 +1742,16 @@ right: 9px!important;}
   
 .currentUserContainer .personanameandstatus_statusAndName_9U-hi {
 margin-right: 55px!important;}
+
+.compactQuickAccess .friend.quickAccessFriend .avatarHolder .avatar, .friend.quickAccessFriend .avatarHolder .avatar {
+height:auto!important;}
+
+.friendCollapseButton, .friendSettingsButton, .friendCollapseButton .SVGIcon_DoubleArrow, .chatTabOpenFriendsList{
+cursor: default!important;}
+
+.chatTabOpenFriendsList{
+color: rgba(var(--white75)) !important;
+background-color: rgb(var(--clientBG)) !important}
+
+.chatTabOpenFriendsList:hover {
+  background-color: rgba(var(--white05)) !important;}
